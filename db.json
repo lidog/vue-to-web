@@ -1,0 +1,79 @@
+{
+ "productList":{
+   "pc":{
+     "title":"PC产品",
+     "list":[
+         {"title":"数据统计","url":"#","hot":false},
+         {"title":"数据预测","url":"#","hot":true},
+         {"title":"流量分析","url":"#","hot":false},
+         {"title":"广告发布","url":"#","hot":true}
+       ]
+   },
+   "app":{
+     "title":"手机应用类",
+     "list":[
+         {"title":"91助手","url":"#","hot":false},
+         {"title":"智能地图","url":"#","hot":true},
+         {"title":"产品助手","url":"#","hot":true},
+         {"title":"团队语音","url":"#","hot":false}
+       ]
+   }
+ },
+  "news":[
+    {"title":"长征十一号实施“一箭六星”发射 今年底有望在海上起飞", "url":"#"},
+    {"title":"国台办回应“武统”说后 陆委会连夜喊冤", "url":"#"},
+    {"title":"印度经济曾与华平起平坐 现GDP仅中国零头", "url":"#"},
+    {"title":"央行副行长殷勇任北京副市长(图/简历)", "url":"#"},
+    {"title":"两岸春节航班被卡 台商不满台当局:我留大陆过年", "url":"#"}
+  ],
+  "board":[
+    {
+      "title":"开放产品",
+      "description":"开放产品是一款开放产品",
+      "url":"#",
+      "icon":"/static/icon/1.png",
+      "class":"mr15 mb15"
+    },
+    {
+      "title":"品牌营销",
+      "description":"品牌营销帮助你的产品更好地找到定位",
+      "url":"#",
+      "icon":"/static/icon/2.png",
+      "class":"mb15"
+    },
+    {
+      "title":"使命必达",
+      "description":"使命必达快速迭代永远保持最前端的速度",
+      "url":"#",
+      "icon":"/static/icon/3.png",
+      "class":"mr15"
+    },{
+      "title":"勇攀高峰",
+      "description":"帮你勇闯高峰，到达事业的顶峰",
+      "url":"#",
+      "icon":"/static/icon/4.png"
+    }
+  ],
+  "slides":[
+    {
+      "src":"/static/slideShow/pic1.jpg",
+      "title":"开放产品",
+      "href":"#"
+    },
+    {
+      "src":"/static/slideShow/pic2.jpg",
+      "title":"品牌营销",
+      "href":"#"
+    },
+    {
+      "src":"/static/slideShow/pic3.jpg",
+      "title":"使命必达",
+      "href":"#"
+    },
+    {
+      "src":"/static/slideShow/pic4.jpg",
+      "title":"勇攀高峰",
+      "href":"#"
+    }
+  ]
+}
