@@ -2,11 +2,11 @@
 
 > 一个 web端的 vue 项目
 
-###本 项目 特点
-# 使用 vue 全家桶组织代码
-# 一些常用的web功能 vue 实现，例如 tab，多选tap，幻灯片，登录验证等
-# 全局弹出组件 layout.vue
-# 使用 express 本地模拟 mock数据 更新视图
+# 本 项目 特点
+* 使用 vue 全家桶组织代码
+* 一些常用的web功能 vue 实现，例如 tab，多选tap，幻灯片，登录验证等
+* 全局弹出组件 layout.vue
+* 使用 express 本地模拟 mock数据 更新视图
 
 ## Build Setup
 
